@@ -1,0 +1,208 @@
+{
+  "nodes": [{
+    "node": 0,
+    "name": "Total Files : 100%",
+    "id": "files"
+  }, {
+    "node": 1,
+    "name": "N/A : 0.00%",
+    "id": "n/a"
+  }, {
+    "node": 2,
+    "name": "Commercial : 10.72%",
+    "id": "commercial"
+  }, {
+    "node": 3,
+    "name": "In-house : 17.47%",
+    "id": "in-house"
+  }, {
+    "node": 4,
+    "name": "Freeware : 0.27%",
+    "id": "freeware"
+  }, {
+    "node": 5,
+    "name": "Open Source : 71.54%",
+    "id": "open_source"
+  }, {
+    "node": 6,
+    "name": "NotTyped : 0.00%",
+    "id": "nottyped"
+  }, {
+    "node": 7,
+    "name": "Proprietary : 28.19%",
+    "id": "proprietary"
+  }, {
+    "node": 8,
+    "name": "Public Domain : 0.00%",
+    "id": "public_domain"
+  }, {
+    "node": 9,
+    "name": "Permissive : 66.26%",
+    "id": "permissive"
+  }, {
+    "node": 10,
+    "name": "Copyleft Weak : 2.67%",
+    "id": "copyleft_weak"
+  }, {
+    "node": 11,
+    "name": "Copyleft : 2.87%",
+    "id": "copyleft"
+  }, {
+    "node": 12,
+    "name": "No Information License : 0.00%",
+    "id": "nottyped"
+  }, {
+    "node": 13,
+    "name": "Client copyright : 28.19%",
+    "id": "client_copyright"
+  }, {
+    "node": 14,
+    "name": "Free licenses : 0.00%",
+    "id": "free_licenses"
+  }, {
+    "node": 15,
+    "name": "Apache Licenses : 36.74%",
+    "id": "apache_licenses"
+  }, {
+    "node": 16,
+    "name": "MIT Licenses : 20.59%",
+    "id": "mit_licenses"
+  }, {
+    "node": 17,
+    "name": "BSD Licenses : 5.60%",
+    "id": "bsd_licenses"
+  }, {
+    "node": 18,
+    "name": "Python/CNRI/Jython Licenses : 2.45%",
+    "id": "python/cnri/jython_licenses"
+  }, {
+    "node": 19,
+    "name": "Public Domain Licenses : 0.28%",
+    "id": "public_domain_licenses"
+  }, {
+    "node": 20,
+    "name": "CPL : 1.75%",
+    "id": "cpl"
+  }, {
+    "node": 21,
+    "name": "CDDL : 0.26%",
+    "id": "cddl"
+  }, {
+    "node": 22,
+    "name": "LGPL : 0.20%",
+    "id": "lgpl"
+  }, {
+    "node": 23,
+    "name": "GPL : 2.73%",
+    "id": "gpl"
+  }, {
+    "node": 24,
+    "name": "LGPL : 0.08%",
+    "id": "lgpl"
+  }],
+  "links": [{
+    "source": 0,
+    "target": 1,
+    "value": 6
+  }, {
+    "source": 0,
+    "target": 2,
+    "value": 18145
+  }, {
+    "source": 0,
+    "target": 3,
+    "value": 29562
+  }, {
+    "source": 0,
+    "target": 4,
+    "value": 455
+  }, {
+    "source": 0,
+    "target": 5,
+    "value": 121065
+  }, {
+    "source": 1,
+    "target": 6,
+    "value": 6
+  }, {
+    "source": 2,
+    "target": 7,
+    "value": 18145
+  }, {
+    "source": 3,
+    "target": 7,
+    "value": 29562
+  }, {
+    "source": 4,
+    "target": 8,
+    "value": 3
+  }, {
+    "source": 4,
+    "target": 9,
+    "value": 455
+  }, {
+    "source": 5,
+    "target": 9,
+    "value": 112138
+  }, {
+    "source": 5,
+    "target": 10,
+    "value": 4525
+  }, {
+    "source": 5,
+    "target": 11,
+    "value": 4853
+  }, {
+    "source": 6,
+    "target": 12,
+    "value": 6
+  }, {
+    "source": 7,
+    "target": 13,
+    "value": 47708
+  }, {
+    "source": 8,
+    "target": 14,
+    "value": 3
+  }, {
+    "source": 9,
+    "target": 15,
+    "value": 62177
+  }, {
+    "source": 9,
+    "target": 16,
+    "value": 34847
+  }, {
+    "source": 9,
+    "target": 17,
+    "value": 9474
+  }, {
+    "source": 9,
+    "target": 18,
+    "value": 4153
+  }, {
+    "source": 9,
+    "target": 19,
+    "value": 466
+  }, {
+    "source": 10,
+    "target": 20,
+    "value": 2963
+  }, {
+    "source": 10,
+    "target": 21,
+    "value": 434
+  }, {
+    "source": 10,
+    "target": 22,
+    "value": 337
+  }, {
+    "source": 11,
+    "target": 23,
+    "value": 4628
+  }, {
+    "source": 11,
+    "target": 24,
+    "value": 134
+  }]
+}
