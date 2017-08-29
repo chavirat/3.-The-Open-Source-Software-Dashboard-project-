@@ -1,12 +1,12 @@
-OSS Dashboard Calculation
-Summary tab
-Percentage of Audits containing Open Source Software (OSS)
-Percentage of Audits with OSS = Number of audits containing OSS/ total number of audits * 100
-Percentage of Audit without OSS = 100 - Percentage of Audits with OSS
-Sankey chart structure
-Total number of files -> divided by software model -> license type -> license base
-Percentage of Total number of files = 100
-Percentage of Files per Software model 
+<h1>OSS Dashboard Calculation</h1>
+<h3>Summary tab</h3>
+<h5>Percentage of Audits containing Open Source Software (OSS)</h5>
+<p>Percentage of Audits with OSS = Number of audits containing OSS/ total number of audits * 100</p>
+<p>Percentage of Audit without OSS = 100 - Percentage of Audits with OSS</p>
+<h5>Sankey chart structure</h5>
+<p>Total number of files -> divided by software model -> license type -> license base</p>
+<p>Percentage of Total number of files = 100</p>
+<p>Percentage of Files per Software model </p>
 = sum of number of files for each software model / sum of number of files * 100
 Percentage of Files per license type 
 = sum of number of files for each license type/ sum of number of files * 100
