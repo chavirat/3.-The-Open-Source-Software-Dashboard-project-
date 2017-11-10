@@ -1,3 +1,7 @@
+# The Open Source Software Dashboard project 
+is a summary of Open Source Software analysis including top 10 licenses, top 10 packages, top 10 high severity packages, average age of Vulnerabilities and Exposures (CVE), etc. The dashboard provides the big picture to our clients, and their awareness of severity of their code. 
+**The dashboard is written in LAMP with Laravel 5.4 framework.
+
 <h1>OSS Dashboard Calculation</h1>
 <h3>Summary tab</h3>
 <h5>Percentage of Audits containing Open Source Software (OSS)</h5>
